@@ -1,11 +1,11 @@
 # selfdestructbot
 Telegram bot for self destructing messages.
 
-Bugs and suggestions: [@Pitasi](https://t.me/Pitasi).
+Bugs and suggestions: [@AMtamilmovie](https://t.me/AMtamilmovies).
 
 # Running the bot
 ```bash
-$ git clone https://github.com/Pitasi/selfdestructbot && cd selfdestructbot
+$ git clone https://github.com/funkyphill/selfdestructbot && cd selfdestructbot
 $ npm install node-telegram-bot-api
 $ TOKEN=<youtoken> node selfdestruct.js
 ```
